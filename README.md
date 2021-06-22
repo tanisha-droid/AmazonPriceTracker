@@ -11,12 +11,4 @@
  6. Change the **headers** according to your [**user agent**](https://www.google.com/search?q=my+user+agent&oq=my+user&aqs=chrome.1.69i57j0l5.2294j1j7&sourceid=chrome&ie=UTF-8). (Example: ```headers = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36'} ```)
  7. Now save the file, close the editor and run **main.py**.
 ---
-## Run this program on Startup
-### Linux
-https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en
-### Windows
-https://support.microsoft.com/en-in/help/4026268/windows-10-change-startup-apps
-
----
-
 #### Thank You.
