@@ -12,5 +12,5 @@
  7. Now save the file, close the editor and run **main.py**.
 ---
 ### Output
-![alt text](https://github.com/[tanisha-droid]/[AmazonPriceTracker]/blob/[main]/output.png?raw=true)
+![Screenshot](output.png)
 #### Thank You.
